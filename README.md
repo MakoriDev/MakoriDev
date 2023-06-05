@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MakoriDev
 - 👀 I’m interested in designing scalable apps using flask and mongodb
-- 🌱 I’m currently learning flutter abd flask
+- 🌱 I’m currently learning flutter and flask
 - 💞️ I’m looking to collaborate on any project related with Flask or flutter frameworks
 - 📫 How to reach me @ https://makoridev.github.io/makoritechy.git.io/
 <!---
