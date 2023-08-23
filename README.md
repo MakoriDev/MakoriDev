@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MakoriDev
-- 👀 I’m interested in designing scalable apps using flask and mongodb
-- 🌱 I’m currently learning flutter and React
+- 👀 I’m interested in designing scalable apps using flask and MERN stack
+- 🌱 I’m currently learning flutter 
 - 💞️ I’m looking to collaborate on any project related with Flask, Ract, Node JS and flutter frameworks
 - 📫 Reach me @ [https://makoridev.com](https://makoridev.netlify.app/)
 <!---
